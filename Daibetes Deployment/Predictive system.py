@@ -20,3 +20,4 @@ if (prediction[0]==0):
     print("PERSON NON DIABETIC")
 else:
     print("PERSON IS DIABETIC")
+    
